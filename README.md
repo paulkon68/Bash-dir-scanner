@@ -1,0 +1,1 @@
+# Bash-dir-scanner
