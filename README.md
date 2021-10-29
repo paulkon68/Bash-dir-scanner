@@ -1,2 +1,2 @@
-A basic directory scanner bash script: 
+A sloppy directory bash scanner script: 
 Usage: ./scan.sh <path>
